@@ -1,0 +1,13 @@
+.dropdown-item:hover{
+    background-color: sandybrown;
+}
+
+.card:hover{
+    box-shadow: 2px 2px 10px black;
+}
+
+.card{
+    background-color: aliceblue;
+    
+}
+
